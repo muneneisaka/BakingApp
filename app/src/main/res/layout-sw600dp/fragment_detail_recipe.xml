@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.DetailRecipeFragment">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textViewLabelIngredient"
+            style="@style/widgetTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:background="@drawable/widget_textview_styling"
+            android:contentDescription="@string/sampleRecipeName"
+            android:text="@string/textIngredients"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerViewIngredients"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:paddingTop="3dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/textViewLabelIngredient">
+
+
+        </android.support.v7.widget.RecyclerView>
+
+        <TextView
+            android:id="@+id/textViewLabelSteps"
+            style="@style/widgetTextViewStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:background="@drawable/widget_textview_styling"
+            android:contentDescription="@string/sampleRecipeName"
+            android:text="@string/textSteps"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/recyclerViewIngredients" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerViewSteps"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:paddingTop="3dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/textViewLabelSteps">
+
+
+        </android.support.v7.widget.RecyclerView>
+    </android.support.constraint.ConstraintLayout>
+</ScrollView>

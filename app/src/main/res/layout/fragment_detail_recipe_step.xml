@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.DetailRecipeStepFragment">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:id="@+id/frameLayoutForExoPlayer"
+            android:layout_width="match_parent"
+            android:layout_height="293dp"
+            android:orientation="vertical"
+            android:paddingEnd="10dp"
+            android:paddingStart="10dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <com.google.android.exoplayer2.ui.SimpleExoPlayerView
+                android:id="@+id/exoPlayerViewer"
+                android:layout_width="match_parent"
+                android:layout_height="293dp"
+                android:paddingEnd="10dp"
+                android:paddingStart="10dp"
+                android:paddingTop="20dp" />
+
+            <ImageView
+                android:id="@+id/thumbnailNoImage"
+                android:layout_width="match_parent"
+                android:layout_height="293dp"
+                android:paddingEnd="10dp"
+                android:paddingStart="10dp"
+                android:paddingTop="20dp"
+                android:visibility="gone"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+        </FrameLayout>
+
+
+        <ScrollView
+            android:id="@+id/scrollStepDescription"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="16dp"
+            android:paddingEnd="10dp"
+            android:paddingStart="10dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/frameLayoutForExoPlayer">
+
+            <TextView
+                android:id="@+id/textViewStepDescription"
+                style="@style/mainTextViewStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/textview_styling"
+                android:text="@string/recipe_sample_text" />
+        </ScrollView>
+
+        <FrameLayout
+            android:id="@+id/linearLayoutForButtons"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="vertical"
+            android:paddingEnd="10dp"
+            android:paddingStart="10dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/scrollStepDescription">
+
+
+            <Button
+                android:id="@+id/buttonPrevious"
+                android:layout_width="157dp"
+                android:layout_height="40dp"
+                android:layout_gravity="start"
+                android:text="@string/previous_step" />
+
+            <Button
+                android:id="@+id/buttonNext"
+                android:layout_width="113dp"
+                android:layout_height="40dp"
+                android:layout_gravity="end"
+                android:text="@string/next_step" />
+        </FrameLayout>
+
+    </android.support.constraint.ConstraintLayout>
+</ScrollView>

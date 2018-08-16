@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e2ed3a85b50a64a76351a03eecf7c886\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\669b1495da06bfa19c819202a07beab6\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\d8bae34eac49551fee6aa050240e0c9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\dbb8ee4ac4309111b322ba351be6fda1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2b26f3dfc635970d59350ae6590ac9d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b15b01a4ae2b3c780b9ac690194d094e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\a4c8cf3068b1c6d820c7550d9c8217f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\90a09edbe13623fb68cfaf34beab82ab\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\3af35720f5cdef3e03bc3416547d096b\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-2.7.2.aar\7febfaa9377c2aedd2e46ffb84f9c3da\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\27d6a4865b36fa65fd2d45ae4d967309\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b4d598fe1d81c4fe9db681a9c1a004c2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9af91a0c39ee1191423d1deccf9bd06c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3c1710ad306da43340b958c0d87e8fe2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\169061647f38df47e2f5fcc4b826e782\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e835f407c5f548c49846948ab9e18bc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.7.2.aar\33a6be27745f298da013cd11d3c52967\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.7.2.aar\4b956387fa05ef65e99ecba6920ce705\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.7.2.aar\f4e7d7858d4736d9a2eb0cea66d0e107\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.2.aar\a0cdccd3a8ff26e0ed8ac6de0f8b33c4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.7.2.aar\4ce986806cabf52e5d0e2fa243d64376\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\947feeebda5249d253962ccf060c1bdc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bc0f92eadaf5bdd500a70fe055ca64d6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f7e5ebd7f8e8e93c5a23479e993ad54c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\636e038f3ce17ff8b283b21b345b1c89\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ebb5ce631d2b5a38842bf8d9ce4d8def\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:8:5-41:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\669b1495da06bfa19c819202a07beab6\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\669b1495da06bfa19c819202a07beab6\AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\dbb8ee4ac4309111b322ba351be6fda1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\dbb8ee4ac4309111b322ba351be6fda1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\90a09edbe13623fb68cfaf34beab82ab\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\90a09edbe13623fb68cfaf34beab82ab\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.munenendereba.bakingapp.ui.MainActivity
+ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:15:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.munenendereba.bakingapp.ui.DetailRecipeActivity
+ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:parentActivityName
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:24:13-85
+	android:name
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:23:13-52
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:25:13-27:79
+	android:value
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:26:17-63
+activity#com.munenendereba.bakingapp.ui.DetailRecipeStepActivity
+ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:30:9-65
+	android:name
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:30:19-62
+receiver#com.munenendereba.bakingapp.BakingAppWidget
+ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:name
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:32:19-50
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:33:13-35:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:34:17-84
+	android:name
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:34:25-81
+meta-data#android.appwidget.provider
+ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:37:13-39:66
+	android:resource
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:39:17-63
+	android:name
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml:38:17-58
+uses-sdk
+INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e2ed3a85b50a64a76351a03eecf7c886\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e2ed3a85b50a64a76351a03eecf7c886\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\669b1495da06bfa19c819202a07beab6\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\669b1495da06bfa19c819202a07beab6\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\d8bae34eac49551fee6aa050240e0c9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\d8bae34eac49551fee6aa050240e0c9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\dbb8ee4ac4309111b322ba351be6fda1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\dbb8ee4ac4309111b322ba351be6fda1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2b26f3dfc635970d59350ae6590ac9d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2b26f3dfc635970d59350ae6590ac9d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b15b01a4ae2b3c780b9ac690194d094e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b15b01a4ae2b3c780b9ac690194d094e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\a4c8cf3068b1c6d820c7550d9c8217f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\a4c8cf3068b1c6d820c7550d9c8217f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\90a09edbe13623fb68cfaf34beab82ab\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\90a09edbe13623fb68cfaf34beab82ab\AndroidManifest.xml:7:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\3af35720f5cdef3e03bc3416547d096b\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\3af35720f5cdef3e03bc3416547d096b\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-2.7.2.aar\7febfaa9377c2aedd2e46ffb84f9c3da\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-2.7.2.aar\7febfaa9377c2aedd2e46ffb84f9c3da\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\27d6a4865b36fa65fd2d45ae4d967309\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\27d6a4865b36fa65fd2d45ae4d967309\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b4d598fe1d81c4fe9db681a9c1a004c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b4d598fe1d81c4fe9db681a9c1a004c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9af91a0c39ee1191423d1deccf9bd06c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\9af91a0c39ee1191423d1deccf9bd06c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3c1710ad306da43340b958c0d87e8fe2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3c1710ad306da43340b958c0d87e8fe2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\169061647f38df47e2f5fcc4b826e782\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\169061647f38df47e2f5fcc4b826e782\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e835f407c5f548c49846948ab9e18bc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\e835f407c5f548c49846948ab9e18bc0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.7.2.aar\33a6be27745f298da013cd11d3c52967\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.7.2.aar\33a6be27745f298da013cd11d3c52967\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.7.2.aar\4b956387fa05ef65e99ecba6920ce705\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.7.2.aar\4b956387fa05ef65e99ecba6920ce705\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.7.2.aar\f4e7d7858d4736d9a2eb0cea66d0e107\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.7.2.aar\f4e7d7858d4736d9a2eb0cea66d0e107\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.2.aar\a0cdccd3a8ff26e0ed8ac6de0f8b33c4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-ui-2.7.2.aar\a0cdccd3a8ff26e0ed8ac6de0f8b33c4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.7.2.aar\4ce986806cabf52e5d0e2fa243d64376\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.2] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.7.2.aar\4ce986806cabf52e5d0e2fa243d64376\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\947feeebda5249d253962ccf060c1bdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\947feeebda5249d253962ccf060c1bdc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bc0f92eadaf5bdd500a70fe055ca64d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bc0f92eadaf5bdd500a70fe055ca64d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f7e5ebd7f8e8e93c5a23479e993ad54c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f7e5ebd7f8e8e93c5a23479e993ad54c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\636e038f3ce17ff8b283b21b345b1c89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\636e038f3ce17ff8b283b21b345b1c89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ebb5ce631d2b5a38842bf8d9ce4d8def\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ebb5ce631d2b5a38842bf8d9ce4d8def\AndroidManifest.xml:20:5-44
+INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Learnings\Android-Nanodegree\projects\Baking App - Project 4\BakingApp\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\669b1495da06bfa19c819202a07beab6\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\669b1495da06bfa19c819202a07beab6\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\669b1495da06bfa19c819202a07beab6\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Munene\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\669b1495da06bfa19c819202a07beab6\AndroidManifest.xml:9:13-64

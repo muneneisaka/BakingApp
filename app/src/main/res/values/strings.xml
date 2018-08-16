@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Let\'s Bake</string>
+
+    <string name="internet_error">There\'s no internet. Please check back later.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textIngredients">Ingredients</string>
+    <string name="textSteps">Recipe Steps</string>
+    <string name="recipe_sample_text">Recipe sample text</string>
+    <string name="ingredients_sample_text">
+        2 Cups of Graham Crackers
+        Oranges
+        Salt
+    </string>
+    <string name="next_step">Next Step</string>
+    <string name="previous_step">Previous Step</string>
+
+    <string-array name="sample_recipe_names">
+        <item>Chocolate chip cookie</item>
+        <item>Pecan pie</item>
+        <item>Spicy chicken noodle</item>
+        <item>Ugali and sukuma</item>
+        <item>Chapati Saucer</item>
+        <item>Madondo</item>
+    </string-array>
+    <string name="sampleRecipeName">Chapati and Biryani</string>
+    <string name="sampleRecipeIngredient">Flour and Baking Soda</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
