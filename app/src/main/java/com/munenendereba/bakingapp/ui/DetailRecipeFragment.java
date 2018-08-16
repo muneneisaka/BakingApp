@@ -55,8 +55,6 @@ public class DetailRecipeFragment extends Fragment implements StepsRecyclerViewA
         setHasOptionsMenu(true); //register that fragment has menu
     }
 
-    boolean isThisATablet;
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         sharedPreferences = getContext().getSharedPreferences("com.munenendereba.bakingapp", getContext().MODE_PRIVATE);
@@ -66,11 +64,7 @@ public class DetailRecipeFragment extends Fragment implements StepsRecyclerViewA
             ex.printStackTrace();
         }
 
-        isThisATablet = getResources().getBoolean(R.bool.isTablet);
-
-        if (!isThisATablet) {
-            recipe = getArguments().getParcelable("recipe");//get the parceled bundle
-        }
+        recipe = getArguments().getParcelable("recipe");//get the parceled bundle
 
         return inflater.inflate(R.layout.fragment_detail_recipe, container, false);
     }
